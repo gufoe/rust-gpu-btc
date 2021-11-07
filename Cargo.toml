@@ -1,0 +1,19 @@
+[package]
+name = "btc"
+version = "0.1.0"
+authors = ["jake"]
+
+[dependencies]
+# std = "*"
+rand = "0.3"
+byteorder = "1"
+crossbeam = "0.3.0"
+bincode="*"
+serde="*"
+serde_derive="*"
+flate2 = "*"
+ocl = "0.16"
+flame = "0.2.0"
+# flamer = "^0.1.4"
+time = "0.1"
+bmp = "*"
